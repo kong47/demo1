@@ -40,6 +40,6 @@ public class Demo
 			}
 		}
 		
-		scanner.close();
+		scanner.close();//结束
 	}
 }
